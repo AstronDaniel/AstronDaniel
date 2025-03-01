@@ -223,6 +223,9 @@ me.sayHello();
   <a href="https://github.com/AstronDaniel/GF_Food_grammer">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=GF_Food_grammer&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="GF_Food_grammer">
   </a>
+   <a href="https://github.com/AstronDaniel/crop_diagnosis">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=crop_diagnosis&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="crop_diagnosis"> 
+  </a>
   <a href="https://github.com/AstronDaniel/BusTicketApp">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=BusTicketApp&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="BusTicketApp">
   </a>
