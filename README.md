@@ -237,6 +237,94 @@ me.sayHello();
   </a>
 </p>
 
+<!-- Spotify Now Playing -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🎵 Cosmic Soundwaves</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+</div>
+
+<!-- Coding Stats -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>⏱️ Coding Time Continuum</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstronDaniel&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="Wakatime Stats"/>
+</div>
+
+<!-- Skill Progress Bars -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🚀 Skill Trajectories</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828)
+  ![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=282828)
+  ![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828)
+  ![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=282828)
+  ![Machine Learning](https://img.shields.io/badge/ML-★★★☆☆-00FFFF?style=for-the-badge&logo=tensorflow&logoColor=00FFFF&labelColor=282828)
+  ![Astronomy](https://img.shields.io/badge/Astronomy-★★★★★-8B00FF?style=for-the-badge&logo=nasa&logoColor=8B00FF&labelColor=282828)
+  
+</div>
+
+<!-- Current Learning Goals -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌌 Exploring New Galaxies</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning-Quantum%20Computing-blueviolet?style=flat-square&logo=quantum&logoColor=white" alt="Quantum Computing"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning-Astrophysics%20Modeling-blue?style=flat-square&logo=atom&logoColor=white" alt="Astrophysics Modeling"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Learning-WebAssembly-orange?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Global Visitor Map -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌎 Stellar Visitor Map</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AstronDaniel/count.svg" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AstronDaniel.AstronDaniel&logo=github&style=for-the-badge&text=Cosmic_Visitors&color=58A6FF&labelColor=0D1117" alt="Visitors">
+</p>
+
+<!-- Contribution Graph 3D -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌠 Contribution Constellation</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <img src="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
 <!-- Animated Spacer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

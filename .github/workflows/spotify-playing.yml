@@ -1,0 +1,18 @@
+name: Spotify Playing Now
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */1 * * *' # Update every hour
+
+jobs:
+  update-readme-with-spotify:
+    name: Update Spotify Playing Status
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/spotify-now-playing@master
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
