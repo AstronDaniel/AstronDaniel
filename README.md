@@ -218,13 +218,13 @@ me.sayHello();
 
 <p align="center">
   <a href="https://github.com/AstronDaniel/Music-cloud">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=project1&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Project 1">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=Music-cloud&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Music-cloud">
   </a>
-  <a href="https://github.com/AstronDaniel/gift-recomendation-app">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=gift-recomendation-app&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="gift-recomendation-app">
+  <a href="https://github.com/AstronDaniel/GF_Food_grammer">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=GF_Food_grammer&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="GF_Food_grammer">
   </a>
-  <a href="https://github.com/AstronDaniel/project3">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=project3&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Project 3">
+  <a href="https://github.com/AstronDaniel/BusTicketApp">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=BusTicketApp&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="BusTicketApp">
   </a>
 </p>
 
