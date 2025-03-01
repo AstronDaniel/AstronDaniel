@@ -258,9 +258,8 @@ me.sayHello();
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstronDaniel&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&layout=compact" alt="Wakatime Stats"/>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- Skill Progress Bars -->
 <div align="center">
