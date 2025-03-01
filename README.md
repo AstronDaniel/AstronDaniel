@@ -166,9 +166,9 @@ me.sayHello();
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
         </a>
-        <br>Docker
+        <br>Java
       </td>
       <td align="center" width="96">
         <a href="#">
@@ -178,9 +178,9 @@ me.sayHello();
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
         </a>
-        <br>Redux
+        <br>Django
       </td>
       <td align="center" width="96">
         <a href="#">
