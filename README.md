@@ -329,8 +329,27 @@ me.sayHello();
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <a href="https://skyline.github.com/AstronDaniel/2023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline%203D%20Contribution-6633cc?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Skyline" />
+  </a>
+</div>
+
+<br>
+
+<!-- Isometric Calendar -->
+<div align="center">
+  <img src="https://github.com/AstronDaniel/AstronDaniel/blob/main/assets/iso_calender.svg" alt="Isometric Contribution Calendar" width="800"/>
 </div>
 
 <!-- Animated Spacer -->

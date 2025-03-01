@@ -1,0 +1,37 @@
+name: Generate Isometric Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Run weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      
+      - name: Create assets directory
+        run: mkdir -p assets
+      
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/iso_calender.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+      - name: Commit and push
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add assets/iso_calender.svg
+          git commit -m "Update isometric contribution calendar" || echo "No changes to commit"
+          git push
