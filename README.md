@@ -391,8 +391,9 @@ me.sayHello();
     </linearGradient>
   </defs>
 </svg>
-<!-- universe -->
-![Universe](assets/universe.svg) 
-<!-- universe -->
+
 <!-- GitHub Matrix SVG Animation -->
 ![GitHub Matrix SVG](https://github4life.herokuapp.com/AstronDaniel.gif)
+
+
+![Universe](assets/universe.svg) 
