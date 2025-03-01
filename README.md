@@ -391,9 +391,7 @@ me.sayHello();
     </linearGradient>
   </defs>
 </svg>
-
-<!-- GitHub Matrix SVG Animation -->
-![GitHub Matrix SVG](https://github4life.herokuapp.com/AstronDaniel.gif)
+<!-- universe -->
 <div>
 <svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
   <!-- Background stars -->
@@ -577,3 +575,6 @@ me.sayHello();
   </defs>
 </svg>
 </div>
+<!-- universe -->
+<!-- GitHub Matrix SVG Animation -->
+![GitHub Matrix SVG](https://github4life.herokuapp.com/AstronDaniel.gif)
