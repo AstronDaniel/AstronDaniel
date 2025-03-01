@@ -140,7 +140,7 @@ me.sayHello();
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
         </a>
         <br>Node.js
       </td>
