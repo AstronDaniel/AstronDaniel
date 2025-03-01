@@ -226,10 +226,10 @@ me.sayHello();
    <a href="https://github.com/AstronDaniel/crop_diagnosis">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=crop_diagnosis&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="crop_diagnosis"> 
   </a>
-  <a href="https://github.com/AstronDaniel/BusTicketApp">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=BusTicketApp&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="BusTicketApp">
+  <a href="https://github.com/AstronDaniel/audio_effects_processor">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=audio_effects_processor&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="audio_effects_processor">
   </a>
-</p>
+</p> 
 
 <p align="center">
   <a href="https://github.com/AstronDaniel?tab=repositories">
