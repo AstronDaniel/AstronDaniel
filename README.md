@@ -392,7 +392,6 @@ me.sayHello();
   </defs>
 </svg>
 <!-- universe -->
-<div>
 <svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
   <!-- Background stars -->
   <rect width="800" height="400" fill="#0D1117" />
@@ -574,7 +573,6 @@ me.sayHello();
     </radialGradient>
   </defs>
 </svg>
-</div>
 <!-- universe -->
 <!-- GitHub Matrix SVG Animation -->
 ![GitHub Matrix SVG](https://github4life.herokuapp.com/AstronDaniel.gif)
