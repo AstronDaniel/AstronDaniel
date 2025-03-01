@@ -96,6 +96,19 @@ me.sayHello();
   </a>
 </div>
 
+<!-- GitHub Trophies Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AstronDaniel&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+  </a>
+</p>
+
 <!-- Animated Skills Section with Glow Effect -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -184,6 +197,17 @@ me.sayHello();
     </tr>
   </table>
 </div>
+
+<!-- Cosmic Quote Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>💫 Cosmic Quote</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+</p>
 
 <!-- 3D Projects Showcase with Cards -->
 <div align="center">
