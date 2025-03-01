@@ -244,8 +244,11 @@ me.sayHello();
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<!-- Spotify -->
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a267oahjqb6z6mehdolebqehiy" alt="Spotify recently played" width="400" />
+  </a>
 </div>
 
 <!-- Coding Stats -->
