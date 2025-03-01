@@ -312,12 +312,15 @@ me.sayHello();
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<!-- Updated visitor counter with cosmic styling -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AstronDaniel/count.svg" />
+  <img src="https://count.getloli.com/get/@AstronDaniel?theme=rule34" alt="Visitor Count" />
 </p>
-<p align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AstronDaniel.AstronDaniel&logo=github&style=for-the-badge&text=Cosmic_Visitors&color=58A6FF&labelColor=0D1117" alt="Visitors">
-</p>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/AstronDaniel?logo=github&style=for-the-badge&color=00FFFF&labelColor=0D1117&label=Cosmic%20Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AstronDaniel?logo=github&style=for-the-badge&color=FFFF00&labelColor=0D1117&label=Cosmic%20Stars" alt="GitHub Stars" />
+</div>
 
 <!-- Contribution Graph 3D -->
 <div align="center">
