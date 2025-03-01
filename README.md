@@ -1,0 +1,252 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+there%2C+I'm+Daniel!+👨‍🚀" alt="Typing SVG" />
+</h1>
+
+<!-- 3D Universe Floating Animation using SVG -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Animated Section Title -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🚀 About Me</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Passionate+Astronomer+%26+Developer;Exploring+the+Universe+through+Code;Making+Technology+Reach+for+the+Stars" alt="Typing SVG" /></a>
+</div>
+
+<!-- 3D-style Tech Stack with CSS Animation -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <pre>
+<span style="color: #00FFFF;">/**
+ * AstronDaniel.js
+ */</span>
+
+<span style="color: #F7DF1E;">class</span> <span style="color: #00BFFF;">Developer</span> {
+  <span style="color: #F7DF1E;">constructor</span>() {
+    <span style="color: #00BFFF;">this</span>.name = <span style="color: #00FF00;">"Daniel"</span>;
+    <span style="color: #00BFFF;">this</span>.role = <span style="color: #00FF00;">"Astronomer & Full Stack Developer"</span>;
+    <span style="color: #00BFFF;">this</span>.languages = [<span style="color: #00FF00;">"JavaScript"</span>, <span style="color: #00FF00;">"Python"</span>, <span style="color: #00FF00;">"TypeScript"</span>, <span style="color: #00FF00;">"HTML/CSS"</span>];
+    <span style="color: #00BFFF;">this</span>.frameworks = [<span style="color: #00FF00;">"React"</span>, <span style="color: #00FF00;">"Node.js"</span>, <span style="color: #00FF00;">"Express"</span>, <span style="color: #00FF00;">"TensorFlow"</span>];
+    <span style="color: #00BFFF;">this</span>.databases = [<span style="color: #00FF00;">"MongoDB"</span>, <span style="color: #00FF00;">"MySQL"</span>, <span style="color: #00FF00;">"Firebase"</span>];
+    <span style="color: #00BFFF;">this</span>.focus = <span style="color: #00FF00;">"Connecting Astronomy & Technology"</span>;
+  }
+
+  <span style="color: #F7DF1E;">sayHello</span>() {
+    <span style="color: #FF00FF;">console</span>.log(<span style="color: #00FF00;">"Thanks for visiting my GitHub! Let's explore the cosmos through code."</span>);
+  }
+}
+
+<span style="color: #F7DF1E;">const</span> me = <span style="color: #F7DF1E;">new</span> <span style="color: #00BFFF;">Developer</span>();
+me.sayHello();
+          </pre>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Profile Views Counter with Animated Universe Background -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AstronDaniel&label=Cosmic+Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p>
+
+<!-- Animated Section Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>⚡ GitHub Stats</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- 3D-Looking Stats Cards with Glowing Effect -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AstronDaniel&theme=radical&hide_border=true&border_radius=10&ring=2EB7FD&background=0D1117&sideLabels=2EB7FD&dates=C6CDFF&currStreakNum=FFFFFF&fire=FF0000" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AstronDaniel&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronDaniel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
+  </a>
+</div>
+
+<!-- 3D Activity Graph with Space Theme -->
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AstronDaniel&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="98%" alt="Activity Graph">
+  </a>
+</div>
+
+<!-- Animated Skills Section with Glow Effect -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🛠️ Tech Universe</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Animated Tech Icons with Glow Effect -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        </a>
+        <br>AWS
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+        </a>
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+        </a>
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        </a>
+        <br>C++
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 3D Projects Showcase with Cards -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌌 Stellar Projects</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<p align="center">
+  <a href="https://github.com/AstronDaniel/project1">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=project1&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Project 1">
+  </a>
+  <a href="https://github.com/AstronDaniel/project2">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=project2&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Project 2">
+  </a>
+  <a href="https://github.com/AstronDaniel/project3">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AstronDaniel&repo=project3&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&hide_border=true&show_icons=true" alt="Project 3">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AstronDaniel?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
+
+<!-- Animated Spacer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h2>🌠 Connect Across the Cosmos</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- 3D Social Media Buttons with Hover Effects -->
+<div align="center">
+  <a href="https://astrondaniel.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/AstronDaniel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/astrondaniel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:astrondaniel@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+ 
+<br>
+
+<!-- Animated Footer with 3D effect -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<!-- Hidden SVG for 3D Animation -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1000" height="100" style="display:none;">
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="sssquiggly-grad">
+      <stop stop-color="hsl(217, 88%, 66%)" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="hsl(217, 88%, 66%)" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+</svg>
+
+<!-- GitHub Matrix SVG Animation -->
+![GitHub Matrix SVG](https://github4life.herokuapp.com/AstronDaniel.gif)
