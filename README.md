@@ -331,25 +331,23 @@ me.sayHello();
 
 <!-- Snake animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/AstronDaniel/AstronDaniel/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/AstronDaniel">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/AstronDaniel/AstronDaniel/output/github-contribution-grid-snake.svg" />
+  </a>
 </div>
 
 <!-- 3D Contribution Calendar -->
 <div align="center">
   <a href="https://skyline.github.com/AstronDaniel/2023" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Skyline%203D%20Contribution-6633cc?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Skyline" />
+    <img src="https://img.shields.io/badge/View_My_GitHub-Skyline_3D_Contribution-6633cc?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Skyline" />
   </a>
 </div>
 
-<br>
-
-<!-- Isometric Calendar -->
+<!-- 3D Contribution Stats Card -->
 <div align="center">
-  <img src="https://github.com/AstronDaniel/AstronDaniel/blob/main/assets/iso_calender.svg" alt="Isometric Contribution Calendar" width="800"/>
+  <a href="https://github.com/AstronDaniel?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstronDaniel&theme=radical" alt="Contribution Stats" width="800"/>
+  </a>
 </div>
 
 <!-- Animated Spacer -->
