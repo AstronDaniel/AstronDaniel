@@ -61,12 +61,13 @@ me.sayHello();
 </div>
 
 <!-- Profile Views Counter with Animated Universe Background -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AstronDaniel&label=Cosmic+Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</p> -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@AstronDaniel?theme=rule34" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=AstronDaniel&label=Cosmic+Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
+
+<!-- <p align="center">
+  <img src="https://count.getloli.com/get/@AstronDaniel?theme=rule34" alt="Visitor Count" />
+</p> -->
 
 <!-- Animated Section Separator -->
 <div align="center">
