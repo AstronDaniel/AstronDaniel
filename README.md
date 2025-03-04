@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Passionate+Astronomer+%26+Developer;Exploring+the+Universe+through+Code;Making+Technology+Reach+for+the+Stars" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=500&lines=Passionate+Data+Analyst+%26+Developer;Exploring+the+Universe+through+Code;Making+Technology+Reach+for+the+Stars" alt="Typing SVG" /></a>
 </div>
 
 <!-- 3D-style Tech Stack with CSS Animation -->
