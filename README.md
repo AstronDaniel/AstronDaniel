@@ -264,41 +264,24 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
-Markdown                 3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-HTML                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  12 hrs 2 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 08/03/2025 00:49:18 UTC
+ Last Updated on 09/03/2025 00:54:10 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
