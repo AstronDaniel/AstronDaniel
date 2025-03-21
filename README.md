@@ -272,17 +272,17 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.12 % 
-HTML                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Image (svg)              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Python                   4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.95 % 
+HTML                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Image (svg)              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +298,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 01:02:32 UTC
+ Last Updated on 21/03/2025 01:03:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
