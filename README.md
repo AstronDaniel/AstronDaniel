@@ -272,17 +272,17 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs               █████████░░░░░░░░░░░░░░░░   37.28 % 
-Python                   4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Dart                     6 hrs               ██████████░░░░░░░░░░░░░░░   39.21 % 
+Python                   4 hrs               ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Markdown                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +298,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2025 01:08:58 UTC
+ Last Updated on 31/03/2025 01:07:14 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
