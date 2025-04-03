@@ -268,20 +268,37 @@ me.sayHello();
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     13 hrs 54 mins      █████████████████░░░░░░░░   67.00 % 
+Python                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Markdown                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Batchfile                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 45 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  20 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 02/04/2025 01:04:54 UTC
+ Last Updated on 03/04/2025 01:04:18 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
