@@ -272,17 +272,17 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-TypeScript               5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Groovy                   2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Python                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+TypeScript               5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Dart                     3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Groovy                   2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +298,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 01:08:18 UTC
+ Last Updated on 07/04/2025 01:06:19 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
