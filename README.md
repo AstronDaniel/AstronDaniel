@@ -272,18 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Groovy                   2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Git Config               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Groovy                   2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+TypeScript               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Python                   2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 3 mins       ██████████████████████░░░   88.67 % 
-Trae                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+VS Code                  9 hrs 48 mins       █████████████████████░░░░   84.52 % 
+Trae                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 
 💻 Operating System: 
-Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -299,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2025 01:04:27 UTC
+ Last Updated on 10/04/2025 01:04:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
