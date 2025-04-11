@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -272,34 +272,34 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Groovy                   2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-TypeScript               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Python                   2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Python                   2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Dart                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Groovy                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Java Properties          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+PHP                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 48 mins       █████████████████████░░░░   84.52 % 
-Trae                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+VS Code                  9 hrs 1 min         █████████████████░░░░░░░░   67.50 % 
+Trae                     4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
 
 💻 Operating System: 
-Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 10/04/2025 01:04:36 UTC
+ Last Updated on 11/04/2025 01:05:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
