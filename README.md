@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -272,18 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Dart                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Groovy                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Java Properties          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-PHP                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Python                   3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
+Dart                     2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+PHP                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 1 min         █████████████████░░░░░░░░   67.50 % 
-Trae                     4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.50 % 
+Trae                     5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.14 % 
+VS Code                  4 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.86 % 
 
 💻 Operating System: 
-Windows                  13 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -299,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2025 01:05:02 UTC
+ Last Updated on 12/04/2025 01:03:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
