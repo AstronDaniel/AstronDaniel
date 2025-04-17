@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -272,18 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
-Python                   5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-PHP                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Dart                     8 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.56 % 
+Python                   4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+HTML                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      ███████████████░░░░░░░░░░   58.32 % 
-Trae                     7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+VS Code                  13 hrs 29 mins      █████████████████░░░░░░░░   67.28 % 
+Trae                     6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
 
 💻 Operating System: 
-Windows                  17 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -299,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 01:06:27 UTC
+ Last Updated on 17/04/2025 01:05:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
