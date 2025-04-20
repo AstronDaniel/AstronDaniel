@@ -272,19 +272,19 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-Dart                     5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-HTML                     5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Python                   6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+HTML                     6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Dart                     5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Markdown                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 2 mins       ██████████████████░░░░░░░   70.29 % 
-Trae                     4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Cursor                   2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+VS Code                  20 hrs 1 min        ██████████████████░░░░░░░   72.97 % 
+Trae                     4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Cursor                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 
 💻 Operating System: 
-Windows                  25 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -300,7 +300,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2025 01:02:44 UTC
+ Last Updated on 20/04/2025 01:10:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
