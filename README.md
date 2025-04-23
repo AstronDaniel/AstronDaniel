@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -272,19 +272,19 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-HTML                     10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.36 % 
-Python                   4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Other                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Dart                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+HTML                     9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
+Python                   5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Dart                     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 38 mins      ███████████████████░░░░░░   75.49 % 
-Cursor                   4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Trae                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+VS Code                  21 hrs 11 mins      ██████████████████░░░░░░░   70.90 % 
+Cursor                   6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Trae                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Windows                  27 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -300,7 +300,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2025 01:05:55 UTC
+ Last Updated on 23/04/2025 01:06:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
