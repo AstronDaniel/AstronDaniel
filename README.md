@@ -264,43 +264,43 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-HTML                     9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-Python                   5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Dart                     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+HTML                     9 hrs               ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Python                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Other                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Markdown                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Dart                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 11 mins      ██████████████████░░░░░░░   70.90 % 
-Cursor                   6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Trae                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+VS Code                  18 hrs 52 mins      ██████████████████░░░░░░░   70.90 % 
+Cursor                   6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Trae                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Windows                  29 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   34.38 % 
-HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 23/04/2025 01:06:31 UTC
+ Last Updated on 24/04/2025 01:06:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
