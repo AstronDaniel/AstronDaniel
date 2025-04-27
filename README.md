@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -272,19 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-HTML                     7 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-Python                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Markdown                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Dart                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-JavaScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+HTML                     7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.21 % 
+Python                   3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Markdown                 2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Dart                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 40 mins      ███████████████████░░░░░░   74.90 % 
-Cursor                   5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Trae                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+VS Code                  15 hrs 41 mins      ██████████████████░░░░░░░   73.25 % 
+Cursor                   5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
 
 💻 Operating System: 
-Windows                  23 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -300,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2025 01:04:35 UTC
+ Last Updated on 27/04/2025 01:10:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
