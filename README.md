@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -272,18 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Python                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Dart                     2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Python                   1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       ███████████████████░░░░░░   75.74 % 
-Cursor                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+VS Code                  6 hrs 32 mins       ███████████████████░░░░░░   74.81 % 
+Cursor                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
 
 💻 Operating System: 
-Windows                  9 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -299,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 01:13:24 UTC
+ Last Updated on 02/05/2025 01:07:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
