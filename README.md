@@ -272,17 +272,13 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 51 mins       ███████████████████████░░   91.90 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +294,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2025 01:08:26 UTC
+ Last Updated on 09/05/2025 01:07:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
