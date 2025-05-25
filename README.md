@@ -272,19 +272,18 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 25 mins      ██████████████████░░░░░░░   70.78 % 
-HTML                     2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                   7 hrs 37 mins       ████████████████░░░░░░░░░   65.08 % 
+HTML                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Git Config               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 33 mins      ████████████████████████░   96.44 % 
-Cursor                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Trae                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+VS Code                  11 hrs 15 mins      ████████████████████████░   96.18 % 
+Cursor                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -300,7 +299,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2025 01:06:16 UTC
+ Last Updated on 25/05/2025 01:15:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
