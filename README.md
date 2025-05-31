@@ -266,7 +266,7 @@ me.sayHello();
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -285,20 +285,20 @@ VS Code                  2 hrs 13 mins       ███████████�
 Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-HTML                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
-JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
+PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 30/05/2025 01:06:54 UTC
+ Last Updated on 31/05/2025 01:07:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
