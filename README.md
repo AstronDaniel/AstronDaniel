@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
@@ -272,13 +272,16 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   47 mins             ███████████████████░░░░░░   74.15 % 
+SQL                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -294,7 +297,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 01:11:07 UTC
+ Last Updated on 14/06/2025 01:08:13 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
