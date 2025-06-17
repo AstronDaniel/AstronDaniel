@@ -264,7 +264,7 @@ me.sayHello();
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
@@ -272,16 +272,16 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   47 mins             ███████████████████░░░░░░   74.01 % 
-SQL                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Python                   1 hr 1 min          ████████████████████░░░░░   78.74 % 
+SQL                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -297,7 +297,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 01:13:09 UTC
+ Last Updated on 17/06/2025 01:11:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
