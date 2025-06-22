@@ -272,11 +272,9 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             ███████████████████████░░   90.12 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   28 mins             ███████████████████████░░   90.46 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
 VS Code                  31 mins             █████████████████████████   100.00 % 
@@ -298,7 +296,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 01:09:37 UTC
+ Last Updated on 22/06/2025 01:17:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
