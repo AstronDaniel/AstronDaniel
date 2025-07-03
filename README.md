@@ -268,6 +268,23 @@ me.sayHello();
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.73 % 
+TypeScript               1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   38.13 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -281,7 +298,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2025 01:12:05 UTC
+ Last Updated on 03/07/2025 01:11:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
