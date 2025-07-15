@@ -565,7 +565,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 • Last-mile technologies & topologies<br>
 • Service providers & protocols<br>
 • Site integration process<br>
-<em>🔧 Live Demo: Site integration (if available)</em>
+<!-- <em>🔧 Live Demo: Site integration (if available)</em> -->
 </td>
 <td align="center">Walid Kyazze</td>
 <td align="center">📋 Process Analysis</td>
