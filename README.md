@@ -272,17 +272,17 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 4 mins        ████████████████░░░░░░░░░   62.49 % 
-Python                   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JavaScript               2 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Python                   1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   40.64 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -298,7 +298,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 01:15:13 UTC
+ Last Updated on 26/07/2025 01:13:46 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
