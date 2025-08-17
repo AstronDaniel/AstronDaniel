@@ -287,17 +287,17 @@ Linux                    1 min               ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-HTML                     11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
 
 
- Last Updated on 16/08/2025 01:09:41 UTC
+ Last Updated on 17/08/2025 01:17:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
