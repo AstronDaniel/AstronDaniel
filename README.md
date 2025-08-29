@@ -272,33 +272,33 @@ me.sayHello();
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
-JavaScript               2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
+Python                   1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+HTML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+HTML                     12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 28/08/2025 01:05:49 UTC
+ Last Updated on 29/08/2025 01:05:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
