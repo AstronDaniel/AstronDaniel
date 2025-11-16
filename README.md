@@ -268,33 +268,20 @@ me.sayHello();
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 15/11/2025 01:08:09 UTC
+ Last Updated on 16/11/2025 01:14:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
