@@ -55,9 +55,8 @@ I am a passionate **Network Engineer** and **Software Developer** with a strong 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronDaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AstronDaniel&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AstronDaniel&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br>
