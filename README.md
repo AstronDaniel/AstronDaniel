@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Daniel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hi there, I'm Daniel! 👨‍💻</h1>
   <h3>Network Engineer | Full Stack Developer | Security Enthusiast</h3>
   
   <br>
@@ -9,11 +9,21 @@
 
 <br>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
-    
-<h2>🚀 About Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sempaladaniel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:danielsempala6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://my-portfolio-liard-omega-20.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<br>
+
+## 🚀 About Me
 
 I am a dedicated **Network Engineer** and **Software Developer** focused on creating resilient infrastructure and efficient software solutions. 
 
@@ -25,25 +35,9 @@ My expertise lies at the intersection of **Systems Administration**, **Network S
 
 <br>
 
-<h2>🤝 Connect</h2>
+## 🛠️ Technical Arsenal
 
-<p>
-  <a href="https://www.linkedin.com/in/sempaladaniel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:danielsempala6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://my-portfolio-liard-omega-20.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
-
-</td>
-<td width="45%" valign="top">
-
-<h2>🛠️ Technical Arsenal</h2>
+<div align="center">
 
 **Networking & Ops**
 <br>
@@ -51,6 +45,9 @@ My expertise lies at the intersection of **Systems Administration**, **Network S
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+
+<br>
+<br>
 
 **Development**
 <br>
@@ -61,19 +58,15 @@ My expertise lies at the intersection of **Systems Administration**, **Network S
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
-<br>
-<br>
-
-<h2>� GitHub Analytics</h2>
-
-<div align="center">
-  <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstronDaniel&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
 
-</td>
-</tr>
-</table>
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AstronDaniel&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
 
 <br>
 
