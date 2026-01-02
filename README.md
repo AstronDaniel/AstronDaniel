@@ -51,7 +51,7 @@ I am a passionate **Network Engineer** and **Software Developer** with a strong 
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstronDaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AstronDaniel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronDaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
